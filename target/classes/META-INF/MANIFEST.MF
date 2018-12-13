@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: service-register
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ramzyzy
+Implementation-Vendor-Id: com.bdem.register
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bdem
+Created-By: Maven Integration for Eclipse
+
